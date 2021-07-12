@@ -1,2 +1,2 @@
 # Lager_D
-Duty Logger for Android base on SMS intake and parsing
+Duty Logger for Android based on SMS intake and parsing
